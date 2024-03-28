@@ -1,0 +1,3 @@
+#zfill
+str='kk'
+print(str.zfill(4))
