@@ -1,0 +1,7 @@
+text='kanithi kanchana'
+p=0
+while(p<len(text)):
+    letter=text[p]
+    print(letter,end=' ')
+    p=p+1
+    
