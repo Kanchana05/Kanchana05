@@ -1,0 +1,3 @@
+list1=(1,3,35,46,70,19)
+list2=sorted(list1)
+print(list2)
