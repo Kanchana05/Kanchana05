@@ -1,0 +1,12 @@
+#zfill
+str='kk'
+print(str.zfill(4))
+#upper
+str='kanchana'
+print(str.upper())
+str='lOwer'
+print(max(str))
+print(min(str))
+str='hi hi hlo'
+print(str.replace('hi hi hlo','b'))
+
