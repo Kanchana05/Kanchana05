@@ -1,0 +1,7 @@
+n="vi##j#a#y"
+c=n.count('#')
+print(c)
+
+str=n.replace("#",'')
+print(str)
+print(str+c*"#")
