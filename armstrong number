@@ -1,0 +1,9 @@
+a=int(input("enter the number"))
+sum=0
+temp=a
+while(temp!=0):
+     r=temp%10
+     sum+=r*r*r
+     temp=temp//10
+     if(sum==a):
+         print("armstrong number")
